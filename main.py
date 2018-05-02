@@ -147,8 +147,7 @@ if config.mode == 'train':
       loss.backward()
       optimizer.step()
       scheduler.step(loss.data[0])
-      if i % (total_batch / 10) == 0:
-        print('Batch : ', i + 1, '/', total_batch, ', Loss in this minibatch: ', loss.data[0])
+      print('Batch : ', i + 1, '/', total_batch, ', Loss in this minibatch: ', loss.data[0])
       avg_loss += loss.data[0]
     print('epoch:', epoch, ' train_loss:', float(avg_loss/total_batch))
   torch.save(model.state_dict(), 'model.pkl')
