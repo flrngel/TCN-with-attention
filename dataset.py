@@ -36,7 +36,7 @@ class AgDataset(Dataset):
     return self.reviews[idx], self.labels[idx]
 
 def preprocess(data: list, max_length: int):
-  vectorized_data = [decompose_str_as_one_hot(ppp(datum), warning=False) for datum in data]
+  vectorized_data = [decompose_str_as_one_hot(datum, warning=False) for datum in data]
   print("longest length: ", len(max(vectorized_data, key=len)))
   zero_padding = np.zeros((len(data), max_length), dtype=np.int32)
   lens1 = np.zeros((len(vectorized_data), max_length), dtype=np.int32)
