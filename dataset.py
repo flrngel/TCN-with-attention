@@ -11,7 +11,7 @@ def get_one_hot(targets, nb_classes):
   return np.eye(nb_classes, dtype=np.float32)[np.array(targets).reshape(-1)]
 
 class AgDataset(Dataset):
-  def __init__(self, dataset_path: str, max_length: int):
+  def __init__(self, dataset_path: str, max_length: int, mode: str):
     """
     initializer
 
@@ -19,8 +19,8 @@ class AgDataset(Dataset):
     :param max_length: 문자열의 최대 길이
     """
     # 데이터, 레이블 각각의 경로
-    data_review = os.path.join(dataset_path, 'ag_news-splitted-original', 'description.txt')
-    data_label = os.path.join(dataset_path, 'ag_news-splitted-original', 'classes.txt')
+    data_review = os.path.join(dataset_path, 'ag_news-splitted-original', mode + '-description.txt')
+    data_label = os.path.join(dataset_path, 'ag_news-splitted-original', mode + '-classes.txt')
 
     # 영화리뷰 데이터를 읽고 preprocess까지 진행합니다
     with open(data_review, 'rt', encoding='utf-8') as f:
