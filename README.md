@@ -7,7 +7,7 @@ But in this model, attention layer is on every top of convolutions layers. And a
 
 ## Result
 
-Dataset: Agnews
+Dataset: [Agnews](https://github.com/mhjabreel/CharCNN/tree/master/data/ag_news_csv) without pre-processing
 - with attention: 0.82
 - without attention: 0.81
 
