@@ -1,0 +1,333 @@
+longest length:  992
+Batch :  1 / 6000 , Loss in this minibatch:  2.1907336711883545
+Batch :  601 / 6000 , Loss in this minibatch:  1.4104599952697754
+Batch :  1201 / 6000 , Loss in this minibatch:  1.4822102785110474
+Batch :  1801 / 6000 , Loss in this minibatch:  1.3910990953445435
+Batch :  2401 / 6000 , Loss in this minibatch:  1.43227219581604
+Batch :  3001 / 6000 , Loss in this minibatch:  1.1486501693725586
+Batch :  3601 / 6000 , Loss in this minibatch:  1.6746342182159424
+Batch :  4201 / 6000 , Loss in this minibatch:  1.2014052867889404
+Batch :  4801 / 6000 , Loss in this minibatch:  1.1561508178710938
+Batch :  5401 / 6000 , Loss in this minibatch:  1.12470543384552
+epoch: 0  train_loss: 1.4496758726239205
+Batch :  1 / 6000 , Loss in this minibatch:  0.9129266738891602
+Batch :  601 / 6000 , Loss in this minibatch:  1.3040449619293213
+Batch :  1201 / 6000 , Loss in this minibatch:  1.2854251861572266
+Batch :  1801 / 6000 , Loss in this minibatch:  0.982711911201477
+Batch :  2401 / 6000 , Loss in this minibatch:  1.0892882347106934
+Batch :  3001 / 6000 , Loss in this minibatch:  1.0950506925582886
+Batch :  3601 / 6000 , Loss in this minibatch:  0.8372079133987427
+Batch :  4201 / 6000 , Loss in this minibatch:  0.8446968197822571
+Batch :  4801 / 6000 , Loss in this minibatch:  0.9592105150222778
+Batch :  5401 / 6000 , Loss in this minibatch:  0.8272913098335266
+epoch: 1  train_loss: 0.9386989703178406
+Batch :  1 / 6000 , Loss in this minibatch:  0.7967888116836548
+Batch :  601 / 6000 , Loss in this minibatch:  0.9729536175727844
+Batch :  1201 / 6000 , Loss in this minibatch:  0.610417366027832
+Batch :  1801 / 6000 , Loss in this minibatch:  0.4762508273124695
+Batch :  2401 / 6000 , Loss in this minibatch:  1.0361981391906738
+Batch :  3001 / 6000 , Loss in this minibatch:  0.5892213582992554
+Batch :  3601 / 6000 , Loss in this minibatch:  0.9576033353805542
+Batch :  4201 / 6000 , Loss in this minibatch:  0.539660632610321
+Batch :  4801 / 6000 , Loss in this minibatch:  0.7469581961631775
+Batch :  5401 / 6000 , Loss in this minibatch:  0.8376525640487671
+epoch: 2  train_loss: 0.7516566644161939
+Batch :  1 / 6000 , Loss in this minibatch:  0.6635422706604004
+Batch :  601 / 6000 , Loss in this minibatch:  0.8543559312820435
+Batch :  1201 / 6000 , Loss in this minibatch:  0.5773423314094543
+Batch :  1801 / 6000 , Loss in this minibatch:  0.5613277554512024
+Batch :  2401 / 6000 , Loss in this minibatch:  0.4555107057094574
+Batch :  3001 / 6000 , Loss in this minibatch:  0.8928573727607727
+Batch :  3601 / 6000 , Loss in this minibatch:  0.497541606426239
+Batch :  4201 / 6000 , Loss in this minibatch:  0.5681108236312866
+Batch :  4801 / 6000 , Loss in this minibatch:  0.8489801287651062
+Batch :  5401 / 6000 , Loss in this minibatch:  0.1597781926393509
+epoch: 3  train_loss: 0.6041918602647881
+Batch :  1 / 6000 , Loss in this minibatch:  0.4382838308811188
+Batch :  601 / 6000 , Loss in this minibatch:  0.464089959859848
+Batch :  1201 / 6000 , Loss in this minibatch:  0.36213722825050354
+Batch :  1801 / 6000 , Loss in this minibatch:  0.67930668592453
+Batch :  2401 / 6000 , Loss in this minibatch:  0.21384556591510773
+Batch :  3001 / 6000 , Loss in this minibatch:  0.741507887840271
+Batch :  3601 / 6000 , Loss in this minibatch:  0.2893751263618469
+Batch :  4201 / 6000 , Loss in this minibatch:  0.5541201829910278
+Batch :  4801 / 6000 , Loss in this minibatch:  0.39439821243286133
+Batch :  5401 / 6000 , Loss in this minibatch:  0.6464950442314148
+epoch: 4  train_loss: 0.5108600127585232
+Batch :  1 / 6000 , Loss in this minibatch:  0.23744316399097443
+Batch :  601 / 6000 , Loss in this minibatch:  0.3637615740299225
+Batch :  1201 / 6000 , Loss in this minibatch:  0.612566351890564
+Batch :  1801 / 6000 , Loss in this minibatch:  0.9866436719894409
+Batch :  2401 / 6000 , Loss in this minibatch:  0.6066628694534302
+Batch :  3001 / 6000 , Loss in this minibatch:  0.5000171661376953
+Batch :  3601 / 6000 , Loss in this minibatch:  0.6471378207206726
+Batch :  4201 / 6000 , Loss in this minibatch:  0.4677248001098633
+Batch :  4801 / 6000 , Loss in this minibatch:  0.8206599950790405
+Batch :  5401 / 6000 , Loss in this minibatch:  0.4206729829311371
+epoch: 5  train_loss: 0.44291296097822486
+Batch :  1 / 6000 , Loss in this minibatch:  0.5578068494796753
+Batch :  601 / 6000 , Loss in this minibatch:  0.363004207611084
+Batch :  1201 / 6000 , Loss in this minibatch:  0.3214937746524811
+Batch :  1801 / 6000 , Loss in this minibatch:  0.5492622256278992
+Batch :  2401 / 6000 , Loss in this minibatch:  0.1806568205356598
+Batch :  3001 / 6000 , Loss in this minibatch:  0.4327968657016754
+Batch :  3601 / 6000 , Loss in this minibatch:  0.449774831533432
+Batch :  4201 / 6000 , Loss in this minibatch:  0.5904391407966614
+Batch :  4801 / 6000 , Loss in this minibatch:  0.3814903199672699
+Batch :  5401 / 6000 , Loss in this minibatch:  0.30546361207962036
+epoch: 6  train_loss: 0.38656550177559257
+Batch :  1 / 6000 , Loss in this minibatch:  0.21837911009788513
+Batch :  601 / 6000 , Loss in this minibatch:  0.5077154636383057
+Batch :  1201 / 6000 , Loss in this minibatch:  0.6567983031272888
+Batch :  1801 / 6000 , Loss in this minibatch:  0.7922817468643188
+Batch :  2401 / 6000 , Loss in this minibatch:  0.3290954828262329
+Batch :  3001 / 6000 , Loss in this minibatch:  0.3724648654460907
+Batch :  3601 / 6000 , Loss in this minibatch:  0.21946890652179718
+Batch :  4201 / 6000 , Loss in this minibatch:  0.21666750311851501
+Batch :  4801 / 6000 , Loss in this minibatch:  0.36117905378341675
+Batch :  5401 / 6000 , Loss in this minibatch:  0.2643524706363678
+epoch: 7  train_loss: 0.3395230511082336
+Batch :  1 / 6000 , Loss in this minibatch:  0.22190022468566895
+Batch :  601 / 6000 , Loss in this minibatch:  0.7087570428848267
+Batch :  1201 / 6000 , Loss in this minibatch:  0.20474281907081604
+Batch :  1801 / 6000 , Loss in this minibatch:  0.21067669987678528
+Batch :  2401 / 6000 , Loss in this minibatch:  0.17085763812065125
+Batch :  3001 / 6000 , Loss in this minibatch:  0.37142935395240784
+Batch :  3601 / 6000 , Loss in this minibatch:  0.189640611410141
+Batch :  4201 / 6000 , Loss in this minibatch:  0.29326826333999634
+Batch :  4801 / 6000 , Loss in this minibatch:  0.54401034116745
+Batch :  5401 / 6000 , Loss in this minibatch:  0.40853309631347656
+epoch: 8  train_loss: 0.29616689996079854
+Batch :  1 / 6000 , Loss in this minibatch:  0.17308522760868073
+Batch :  601 / 6000 , Loss in this minibatch:  0.22675207257270813
+Batch :  1201 / 6000 , Loss in this minibatch:  0.2493736445903778
+Batch :  1801 / 6000 , Loss in this minibatch:  0.1526148021221161
+Batch :  2401 / 6000 , Loss in this minibatch:  0.34273281693458557
+Batch :  3001 / 6000 , Loss in this minibatch:  0.11935202032327652
+Batch :  3601 / 6000 , Loss in this minibatch:  0.2920261025428772
+Batch :  4201 / 6000 , Loss in this minibatch:  0.49356356263160706
+Batch :  4801 / 6000 , Loss in this minibatch:  0.15622791647911072
+Batch :  5401 / 6000 , Loss in this minibatch:  0.35379528999328613
+epoch: 9  train_loss: 0.26006267704690494
+Batch :  1 / 6000 , Loss in this minibatch:  0.6096518635749817
+Batch :  601 / 6000 , Loss in this minibatch:  0.2904331386089325
+Batch :  1201 / 6000 , Loss in this minibatch:  0.13256990909576416
+Batch :  1801 / 6000 , Loss in this minibatch:  0.32168370485305786
+Batch :  2401 / 6000 , Loss in this minibatch:  0.09364719688892365
+Batch :  3001 / 6000 , Loss in this minibatch:  0.08593083918094635
+Batch :  3601 / 6000 , Loss in this minibatch:  0.06031551957130432
+Batch :  4201 / 6000 , Loss in this minibatch:  0.226841002702713
+Batch :  4801 / 6000 , Loss in this minibatch:  0.16791243851184845
+Batch :  5401 / 6000 , Loss in this minibatch:  0.1698862612247467
+epoch: 10  train_loss: 0.22414973419671877
+Batch :  1 / 6000 , Loss in this minibatch:  0.07921604812145233
+Batch :  601 / 6000 , Loss in this minibatch:  0.1405905932188034
+Batch :  1201 / 6000 , Loss in this minibatch:  0.3401760458946228
+Batch :  1801 / 6000 , Loss in this minibatch:  0.11224279552698135
+Batch :  2401 / 6000 , Loss in this minibatch:  0.18931810557842255
+Batch :  3001 / 6000 , Loss in this minibatch:  0.30572688579559326
+Batch :  3601 / 6000 , Loss in this minibatch:  0.2262069433927536
+Batch :  4201 / 6000 , Loss in this minibatch:  0.24829617142677307
+Batch :  4801 / 6000 , Loss in this minibatch:  0.29396337270736694
+Batch :  5401 / 6000 , Loss in this minibatch:  0.0802864134311676
+epoch: 11  train_loss: 0.19303809918874565
+Batch :  1 / 6000 , Loss in this minibatch:  0.15397366881370544
+Batch :  601 / 6000 , Loss in this minibatch:  0.1323983520269394
+Batch :  1201 / 6000 , Loss in this minibatch:  0.09991404414176941
+Batch :  1801 / 6000 , Loss in this minibatch:  0.05515880510210991
+Batch :  2401 / 6000 , Loss in this minibatch:  0.1750555783510208
+Batch :  3001 / 6000 , Loss in this minibatch:  0.13284024596214294
+Batch :  3601 / 6000 , Loss in this minibatch:  0.3234316110610962
+Batch :  4201 / 6000 , Loss in this minibatch:  0.08452832698822021
+Batch :  4801 / 6000 , Loss in this minibatch:  0.1533837467432022
+Batch :  5401 / 6000 , Loss in this minibatch:  0.11801813542842865
+epoch: 12  train_loss: 0.16784892575171156
+Batch :  1 / 6000 , Loss in this minibatch:  0.05437011644244194
+Batch :  601 / 6000 , Loss in this minibatch:  0.15057067573070526
+Batch :  1201 / 6000 , Loss in this minibatch:  0.30937299132347107
+Batch :  1801 / 6000 , Loss in this minibatch:  0.11267943680286407
+Batch :  2401 / 6000 , Loss in this minibatch:  0.07783307880163193
+Batch :  3001 / 6000 , Loss in this minibatch:  0.12935152649879456
+Batch :  3601 / 6000 , Loss in this minibatch:  0.10273070633411407
+Batch :  4201 / 6000 , Loss in this minibatch:  0.2304668426513672
+Batch :  4801 / 6000 , Loss in this minibatch:  0.09556959569454193
+Batch :  5401 / 6000 , Loss in this minibatch:  0.02153768576681614
+epoch: 13  train_loss: 0.1457572380066073
+Batch :  1 / 6000 , Loss in this minibatch:  0.12534643709659576
+Batch :  601 / 6000 , Loss in this minibatch:  0.30431196093559265
+Batch :  1201 / 6000 , Loss in this minibatch:  0.024935996159911156
+Batch :  1801 / 6000 , Loss in this minibatch:  0.08632269501686096
+Batch :  2401 / 6000 , Loss in this minibatch:  0.08930448442697525
+Batch :  3001 / 6000 , Loss in this minibatch:  0.17028877139091492
+Batch :  3601 / 6000 , Loss in this minibatch:  0.12366361916065216
+Batch :  4201 / 6000 , Loss in this minibatch:  0.15876640379428864
+Batch :  4801 / 6000 , Loss in this minibatch:  0.32952532172203064
+Batch :  5401 / 6000 , Loss in this minibatch:  0.10265789926052094
+epoch: 14  train_loss: 0.12518250795236477
+Batch :  1 / 6000 , Loss in this minibatch:  0.03391615301370621
+Batch :  601 / 6000 , Loss in this minibatch:  0.05634968727827072
+Batch :  1201 / 6000 , Loss in this minibatch:  0.15814940631389618
+Batch :  1801 / 6000 , Loss in this minibatch:  0.13600054383277893
+Batch :  2401 / 6000 , Loss in this minibatch:  0.009822249412536621
+Batch :  3001 / 6000 , Loss in this minibatch:  0.1360575258731842
+Batch :  3601 / 6000 , Loss in this minibatch:  0.06613455712795258
+Batch :  4201 / 6000 , Loss in this minibatch:  0.09672699868679047
+Batch :  4801 / 6000 , Loss in this minibatch:  0.04919996112585068
+Batch :  5401 / 6000 , Loss in this minibatch:  0.07586480677127838
+epoch: 15  train_loss: 0.10786983345046368
+Batch :  1 / 6000 , Loss in this minibatch:  0.12498375028371811
+Batch :  601 / 6000 , Loss in this minibatch:  0.14999835193157196
+Batch :  1201 / 6000 , Loss in this minibatch:  0.011049938388168812
+Batch :  1801 / 6000 , Loss in this minibatch:  0.021771645173430443
+Batch :  2401 / 6000 , Loss in this minibatch:  0.04183020442724228
+Batch :  3001 / 6000 , Loss in this minibatch:  0.05070082098245621
+Batch :  3601 / 6000 , Loss in this minibatch:  0.06289222836494446
+Batch :  4201 / 6000 , Loss in this minibatch:  0.031234215945005417
+Batch :  4801 / 6000 , Loss in this minibatch:  0.13775430619716644
+Batch :  5401 / 6000 , Loss in this minibatch:  0.04403894022107124
+epoch: 16  train_loss: 0.09191145585861522
+Batch :  1 / 6000 , Loss in this minibatch:  0.013332223519682884
+Batch :  601 / 6000 , Loss in this minibatch:  0.18719594180583954
+Batch :  1201 / 6000 , Loss in this minibatch:  0.02486097253859043
+Batch :  1801 / 6000 , Loss in this minibatch:  0.2815174460411072
+Batch :  2401 / 6000 , Loss in this minibatch:  0.15657737851142883
+Batch :  3001 / 6000 , Loss in this minibatch:  0.013624596409499645
+Batch :  3601 / 6000 , Loss in this minibatch:  0.10687679052352905
+Batch :  4201 / 6000 , Loss in this minibatch:  0.02959902212023735
+Batch :  4801 / 6000 , Loss in this minibatch:  0.034763287752866745
+Batch :  5401 / 6000 , Loss in this minibatch:  0.07381186634302139
+epoch: 17  train_loss: 0.08067086712692981
+Batch :  1 / 6000 , Loss in this minibatch:  0.053945671766996384
+Batch :  601 / 6000 , Loss in this minibatch:  0.23627254366874695
+Batch :  1201 / 6000 , Loss in this minibatch:  0.14010067284107208
+Batch :  1801 / 6000 , Loss in this minibatch:  0.023849571123719215
+Batch :  2401 / 6000 , Loss in this minibatch:  0.157254159450531
+Batch :  3001 / 6000 , Loss in this minibatch:  0.016275679692626
+Batch :  3601 / 6000 , Loss in this minibatch:  0.06633178144693375
+Batch :  4201 / 6000 , Loss in this minibatch:  0.005846142768859863
+Batch :  4801 / 6000 , Loss in this minibatch:  0.01899135112762451
+Batch :  5401 / 6000 , Loss in this minibatch:  0.033231936395168304
+epoch: 18  train_loss: 0.07025956287729787
+Batch :  1 / 6000 , Loss in this minibatch:  0.04568847268819809
+Batch :  601 / 6000 , Loss in this minibatch:  0.016727829352021217
+Batch :  1201 / 6000 , Loss in this minibatch:  0.03329477459192276
+Batch :  1801 / 6000 , Loss in this minibatch:  0.005723738577216864
+Batch :  2401 / 6000 , Loss in this minibatch:  0.04146387428045273
+Batch :  3001 / 6000 , Loss in this minibatch:  0.034565769135951996
+Batch :  3601 / 6000 , Loss in this minibatch:  0.21831321716308594
+Batch :  4201 / 6000 , Loss in this minibatch:  0.06477032601833344
+Batch :  4801 / 6000 , Loss in this minibatch:  0.021592402830719948
+Batch :  5401 / 6000 , Loss in this minibatch:  0.02213817834854126
+epoch: 19  train_loss: 0.06281704638556888
+Batch :  1 / 6000 , Loss in this minibatch:  0.0636952817440033
+Batch :  601 / 6000 , Loss in this minibatch:  0.10044246912002563
+Batch :  1201 / 6000 , Loss in this minibatch:  0.025952493771910667
+Batch :  1801 / 6000 , Loss in this minibatch:  0.045672379434108734
+Batch :  2401 / 6000 , Loss in this minibatch:  0.04620124027132988
+Batch :  3001 / 6000 , Loss in this minibatch:  0.06082151085138321
+Batch :  3601 / 6000 , Loss in this minibatch:  0.0827978327870369
+Batch :  4201 / 6000 , Loss in this minibatch:  0.0020236254204064608
+Batch :  4801 / 6000 , Loss in this minibatch:  0.03950768709182739
+Batch :  5401 / 6000 , Loss in this minibatch:  0.11699259281158447
+epoch: 20  train_loss: 0.05533714180913618
+Batch :  1 / 6000 , Loss in this minibatch:  0.060762785375118256
+Batch :  601 / 6000 , Loss in this minibatch:  0.021925318986177444
+Batch :  1201 / 6000 , Loss in this minibatch:  0.06309859454631805
+Batch :  1801 / 6000 , Loss in this minibatch:  0.06975338608026505
+Batch :  2401 / 6000 , Loss in this minibatch:  0.043879419565200806
+Batch :  3001 / 6000 , Loss in this minibatch:  0.06927164644002914
+Batch :  3601 / 6000 , Loss in this minibatch:  0.04969515651464462
+Batch :  4201 / 6000 , Loss in this minibatch:  0.04157586023211479
+Batch :  4801 / 6000 , Loss in this minibatch:  0.009075319394469261
+Batch :  5401 / 6000 , Loss in this minibatch:  0.04025324434041977
+epoch: 21  train_loss: 0.048836042895859764
+Batch :  1 / 6000 , Loss in this minibatch:  0.04862653464078903
+Batch :  601 / 6000 , Loss in this minibatch:  0.008557045832276344
+Batch :  1201 / 6000 , Loss in this minibatch:  0.042433373630046844
+Batch :  1801 / 6000 , Loss in this minibatch:  0.14194098114967346
+Batch :  2401 / 6000 , Loss in this minibatch:  0.010472285561263561
+Batch :  3001 / 6000 , Loss in this minibatch:  0.08979066461324692
+Batch :  3601 / 6000 , Loss in this minibatch:  0.022892963141202927
+Batch :  4201 / 6000 , Loss in this minibatch:  0.14106552302837372
+Batch :  4801 / 6000 , Loss in this minibatch:  0.12476667016744614
+Batch :  5401 / 6000 , Loss in this minibatch:  0.07888887822628021
+epoch: 22  train_loss: 0.04378153228884912
+Batch :  1 / 6000 , Loss in this minibatch:  0.01422264613211155
+Batch :  601 / 6000 , Loss in this minibatch:  0.03604781627655029
+Batch :  1201 / 6000 , Loss in this minibatch:  0.032073549926280975
+Batch :  1801 / 6000 , Loss in this minibatch:  0.006460630800575018
+Batch :  2401 / 6000 , Loss in this minibatch:  0.00542262801900506
+Batch :  3001 / 6000 , Loss in this minibatch:  0.004308068659156561
+Batch :  3601 / 6000 , Loss in this minibatch:  0.050931595265865326
+Batch :  4201 / 6000 , Loss in this minibatch:  0.014706182293593884
+Batch :  4801 / 6000 , Loss in this minibatch:  0.01570950821042061
+Batch :  5401 / 6000 , Loss in this minibatch:  0.057326771318912506
+epoch: 23  train_loss: 0.039934841580346984
+Batch :  1 / 6000 , Loss in this minibatch:  0.09352666884660721
+Batch :  601 / 6000 , Loss in this minibatch:  0.018424224108457565
+Batch :  1201 / 6000 , Loss in this minibatch:  0.03199751302599907
+Batch :  1801 / 6000 , Loss in this minibatch:  0.05311853811144829
+Batch :  2401 / 6000 , Loss in this minibatch:  0.016320813447237015
+Batch :  3001 / 6000 , Loss in this minibatch:  0.016729354858398438
+Batch :  3601 / 6000 , Loss in this minibatch:  0.004956650547683239
+Batch :  4201 / 6000 , Loss in this minibatch:  0.04470223933458328
+Batch :  4801 / 6000 , Loss in this minibatch:  0.029396604746580124
+Batch :  5401 / 6000 , Loss in this minibatch:  0.0012038468848913908
+epoch: 24  train_loss: 0.0356497311557614
+Batch :  1 / 6000 , Loss in this minibatch:  0.016644161194562912
+Batch :  601 / 6000 , Loss in this minibatch:  0.08258626610040665
+Batch :  1201 / 6000 , Loss in this minibatch:  0.025707393884658813
+Batch :  1801 / 6000 , Loss in this minibatch:  0.0030347525607794523
+Batch :  2401 / 6000 , Loss in this minibatch:  0.05044601112604141
+Batch :  3001 / 6000 , Loss in this minibatch:  0.00073919293936342
+Batch :  3601 / 6000 , Loss in this minibatch:  0.056652288883924484
+Batch :  4201 / 6000 , Loss in this minibatch:  0.006801771931350231
+Batch :  4801 / 6000 , Loss in this minibatch:  0.1464298665523529
+Batch :  5401 / 6000 , Loss in this minibatch:  0.004755937959998846
+epoch: 25  train_loss: 0.03200729622415141
+Batch :  1 / 6000 , Loss in this minibatch:  0.003915810491889715
+Batch :  601 / 6000 , Loss in this minibatch:  0.0641397163271904
+Batch :  1201 / 6000 , Loss in this minibatch:  0.005658531095832586
+Batch :  1801 / 6000 , Loss in this minibatch:  0.07345347106456757
+Batch :  2401 / 6000 , Loss in this minibatch:  0.01365040522068739
+Batch :  3001 / 6000 , Loss in this minibatch:  0.016260039061307907
+Batch :  3601 / 6000 , Loss in this minibatch:  0.05365215614438057
+Batch :  4201 / 6000 , Loss in this minibatch:  0.005303144454956055
+Batch :  4801 / 6000 , Loss in this minibatch:  0.04453887790441513
+Batch :  5401 / 6000 , Loss in this minibatch:  0.002719974610954523
+epoch: 26  train_loss: 0.030330710878821266
+Batch :  1 / 6000 , Loss in this minibatch:  0.032238177955150604
+Batch :  601 / 6000 , Loss in this minibatch:  0.06731979548931122
+Batch :  1201 / 6000 , Loss in this minibatch:  0.00033614636049605906
+Batch :  1801 / 6000 , Loss in this minibatch:  0.021347641944885254
+Batch :  2401 / 6000 , Loss in this minibatch:  0.01369862537831068
+Batch :  3001 / 6000 , Loss in this minibatch:  0.009289550594985485
+Batch :  3601 / 6000 , Loss in this minibatch:  0.0311051607131958
+Batch :  4201 / 6000 , Loss in this minibatch:  0.13070450723171234
+Batch :  4801 / 6000 , Loss in this minibatch:  0.01182321272790432
+Batch :  5401 / 6000 , Loss in this minibatch:  0.005616307258605957
+epoch: 27  train_loss: 0.027456434602011238
+Batch :  1 / 6000 , Loss in this minibatch:  0.00246694078668952
+Batch :  601 / 6000 , Loss in this minibatch:  0.016964197158813477
+Batch :  1201 / 6000 , Loss in this minibatch:  0.011372578330338001
+Batch :  1801 / 6000 , Loss in this minibatch:  0.01668260060250759
+Batch :  2401 / 6000 , Loss in this minibatch:  0.0014496922958642244
+Batch :  3001 / 6000 , Loss in this minibatch:  0.01800435781478882
+Batch :  3601 / 6000 , Loss in this minibatch:  0.016415929421782494
+Batch :  4201 / 6000 , Loss in this minibatch:  0.05872200056910515
+Batch :  4801 / 6000 , Loss in this minibatch:  0.000696206116117537
+Batch :  5401 / 6000 , Loss in this minibatch:  0.09371273219585419
+epoch: 28  train_loss: 0.02561729958502595
+Batch :  1 / 6000 , Loss in this minibatch:  0.03686784952878952
+Batch :  601 / 6000 , Loss in this minibatch:  0.021691476926207542
+Batch :  1201 / 6000 , Loss in this minibatch:  0.012833451852202415
+Batch :  1801 / 6000 , Loss in this minibatch:  0.0226936936378479
+Batch :  2401 / 6000 , Loss in this minibatch:  0.00655974168330431
+Batch :  3001 / 6000 , Loss in this minibatch:  0.011445474810898304
+Batch :  3601 / 6000 , Loss in this minibatch:  0.0007306337356567383
+Batch :  4201 / 6000 , Loss in this minibatch:  0.009138083085417747
+Batch :  4801 / 6000 , Loss in this minibatch:  0.014166069217026234
+Batch :  5401 / 6000 , Loss in this minibatch:  0.016055118292570114
+epoch: 29  train_loss: 0.02385022187720036
+longest length:  835
+test accuracy:  0.8271052631578948
