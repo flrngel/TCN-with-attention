@@ -1,3 +1,6 @@
+# Codes are partly combined from https://github.com/locuslab/TCN
+#   and https://github.com/sagelywizard/snail
+
 import math
 import torch
 import torch.nn as nn
