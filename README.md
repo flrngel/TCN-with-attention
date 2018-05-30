@@ -3,7 +3,7 @@
 Temporal Convolutional Network with attention layer
 
 Concept of model is mostly like [Simple Neural Attentive Meta-Learner](https://github.com/sagelywizard/snail).
-But in this model, attention layer is on every top of convolutions layers.
+But in this model, attention layer is on every top of convolutions layers. And attention size is differ from SNAIL
 
 ## Results
 
