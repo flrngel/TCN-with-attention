@@ -13,6 +13,6 @@ Dataset: Agnews
 
 ### My thoughts on results
 
-Most of simple models on agnews shows 0.81 accuracy. (Which tested on [A Structured Self-Attentive Sentence Embedding](https://github.com/flrngel/Self-Attentive-tensorflow), [TagSpace](https://github.com/flrngel/TagSpace-tensorflow))
+Most of simple models on agnews shows 0.81 accuracy. (Which tested on [A Structured Self-Attentive Sentence Embedding](https://github.com/flrngel/Self-Attentive-tensorflow), [TagSpace](https://github.com/flrngel/TagSpace-tensorflow) and it uses word based embedding)
 
-So 0.82 accuracy seems worthiness.
+So 0.82 accuracy with **character based model** seems worthiness.
